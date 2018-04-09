@@ -1,0 +1,4 @@
+Three trends:
+- The overall sentiment for all news organization is negative.
+- CBS was the most negative overall.
+- For individual tweets, there is a clustering with a sentiment of 0.
